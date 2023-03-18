@@ -16,12 +16,12 @@ Facebook recently introduced a new bidding type, "average bidding", as an altern
 
 In this data set, which includes the website information of a company, there is information such as the number of advertisements that users see and click, as well as earnings information from here. There are two separate data sets, the Control and Test group. These datasets are on separate pages of ab_testing.xlsxexcel. Maximum Bidding was applied to the control group and Average Bidding was applied to the test group.
 
-|Value| Description                                         |
-|:----|:----------------------------------------------------|
-|Impression| Ad views                                  |
-|Click| Number of clicks on the displayed ad                |
-|Purchase| Number of products purchased after ads clicked |
-|Earning| Earnings after purchased products     |
+ Sr. | Feature  | Description |
+--- | --- | --- | 
+1 |Impression| Ad views                                  |
+2 |Click| Number of clicks on the displayed ad                |
+3 |Purchase| Number of products purchased after ads clicked |
+4 |Earning| Earnings after purchased products     |
 
 ---
 
